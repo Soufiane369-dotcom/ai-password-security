@@ -1,0 +1,5 @@
+{
+  "name": "PassSecurity - Analyste de Sécurité",
+  "description": "Un outil pédagogique d'analyse de robustesse de mots de passe alimenté par l'IA, conçu pour sensibiliser à la cybersécurité sans compromettre vos données.",
+  "requestFramePermissions": []
+}
